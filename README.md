@@ -1,6 +1,6 @@
 # PyGERG
 
-[![PyPI version](https://img.shields.io/pypi/v/pygerg.svg)](https://pypi.org/project/pygerg/)
+[![PyPI version](https://img.shields.io/pypi/v/pygerg.svg?color=green)](https://pypi.org/project/pygerg/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Python implementation of the GERG-88 standard for calculating compression factors and other properties of natural gases. A simple, dependency-free package for gas engineering applications.
